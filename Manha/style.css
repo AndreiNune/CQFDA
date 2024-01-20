@@ -1,0 +1,11 @@
+* { /* Configuração global */
+    height: 100%;
+
+}
+
+.navbar {
+    height: 10%;
+    width: 100%;
+    background-image: linear-gradient(to bottom, #323F47, #121F27, #030E14,#000910);
+    border-radius: 5px;
+}
